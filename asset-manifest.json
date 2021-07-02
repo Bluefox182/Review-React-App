@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Review-React-App/static/css/main.2f94cf21.chunk.css",
+    "main.js": "/Review-React-App/static/js/main.a70de2c1.chunk.js",
+    "main.js.map": "/Review-React-App/static/js/main.a70de2c1.chunk.js.map",
+    "runtime-main.js": "/Review-React-App/static/js/runtime-main.69e66437.js",
+    "runtime-main.js.map": "/Review-React-App/static/js/runtime-main.69e66437.js.map",
+    "static/css/2.150d169a.chunk.css": "/Review-React-App/static/css/2.150d169a.chunk.css",
+    "static/js/2.3a78ed49.chunk.js": "/Review-React-App/static/js/2.3a78ed49.chunk.js",
+    "static/js/2.3a78ed49.chunk.js.map": "/Review-React-App/static/js/2.3a78ed49.chunk.js.map",
+    "index.html": "/Review-React-App/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Review-React-App/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.2f94cf21.chunk.css.map": "/Review-React-App/static/css/main.2f94cf21.chunk.css.map",
+    "static/js/2.3a78ed49.chunk.js.LICENSE.txt": "/Review-React-App/static/js/2.3a78ed49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69e66437.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3a78ed49.chunk.js",
+    "static/css/main.2f94cf21.chunk.css",
+    "static/js/main.a70de2c1.chunk.js"
+  ]
+}
